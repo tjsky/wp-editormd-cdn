@@ -13,18 +13,18 @@
 
 | 字段 | 填什么 |
 | --- | --- |
-| Editor.md 静态资源地址 | `https://cdn.jsdelivr.net/gh/tjsky/wp-editormd-cdn@10.5.2` |
-| 静态资源完整性校验 | `integrity-core-10.5.2.txt` 的内容（可选，推荐） |
+| Editor.md 静态资源地址 | `https://cdn.jsdelivr.net/gh/tjsky/wp-editormd-cdn@10.5.3` |
+| 静态资源完整性校验 | `integrity-core-10.5.3.txt` 的内容（可选，推荐） |
 
-地址末尾**不要**加 `/assets` —— 插件自己拼。地址里的 `@10.5.2` 是 tag，锁定在该版本，
+地址末尾**不要**加 `/assets` —— 插件自己拼。地址里的 `@10.5.3` 是 tag，锁定在该版本，
 不会被后续更新影响。
 
 ## 目录
 
 ```
 assets/                      插件运行时加载的全部静态资源（2026 个文件，约 23 MB）
-integrity-10.5.2.txt         全量哈希清单（每个文件一行）
-integrity-core-10.5.2.txt    精简哈希清单（插件实际会加载的 41 个文件，推荐填这个）
+integrity-10.5.3.txt         全量哈希清单（每个文件一行）
+integrity-core-10.5.3.txt    精简哈希清单（插件实际会加载的 41 个文件，推荐填这个）
 ```
 
 `assets/` 里不只有 JS / CSS：emoji 图片、KaTeX 字体、CodeMirror 主题都在里面，
