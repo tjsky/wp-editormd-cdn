@@ -1,5 +1,5 @@
 /*!
-* WP Editor.md v10.5.4 | Author: @LuRenJiasWorld | Repository: https://github.com/LuRenJiasWorld/WP-Editor.md | Compiled on 2026-11-13 | License: GNU General Public License v3.0
+* WP Editor.md v10.5.5 | Author: @LuRenJiasWorld | Repository: https://github.com/LuRenJiasWorld/WP-Editor.md | Compiled on 2026-11-21 | License: GNU General Public License v3.0
 * NOTICE: Code in assets/Editormd is originally developed by @pandao and forked to work with WP Editor.md by @LuRenJiasWorld. 
 *         Related MIT license is located in assets/Editormd/LICENSE, but now distributed with WP Editor.md using GPLv3.
 */
